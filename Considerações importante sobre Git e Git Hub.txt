@@ -1,0 +1,11 @@
+- O GitHub é um repositório em que é possível compartilhar códigos e relizar mudanças neles - de forma coletiva - de forma segura e formalizada.
+- Após criar uma área de trabalho no computador (e com o GIT instalado) é possível inserir um comando GIT Bash na pasta e vinculá-la aos seus projetos em programação e afins
+- Após isto, com o repositório criado no GitHub,podemos clonar arquivos para o PC e transferir pastas para o GitHub
+
+Comandos importantes: 
+
+- "git clone" para clonar um repositório
+- "git status" para ver os commits pendentes
+- "git add ." para dar inicio ao commit
+- "git commit -m + comentários entre aspas" para commitar e dar uma descrição das modificações que irão em um commit
+- "git push origin main" para enviar todos os arquivos do commit para a núvem do GitHub
