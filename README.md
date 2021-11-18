@@ -1,2 +1,2 @@
-# desafio-repositorio-dio
-Repositório criado para organização dos estudos sobre Git/GitHub e programação
+# Repositório do Desafio DIO
+Organização dos estudos sobre Git/GitHub e programação
